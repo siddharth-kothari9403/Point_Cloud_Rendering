@@ -1,0 +1,350 @@
+{
+    "wall_time": 71.5989394760004,
+    "image_reports": [
+        {
+            "image": "0066.jpg",
+            "num_features": 4776,
+            "wall_time": 0.835597701000097
+        },
+        {
+            "image": "0052.jpg",
+            "num_features": 4731,
+            "wall_time": 0.7985204660003546
+        },
+        {
+            "image": "0031.jpg",
+            "num_features": 4429,
+            "wall_time": 0.8234974680003688
+        },
+        {
+            "image": "0046.jpg",
+            "num_features": 4564,
+            "wall_time": 1.132762275999994
+        },
+        {
+            "image": "0018.jpg",
+            "num_features": 4486,
+            "wall_time": 1.2567531439999584
+        },
+        {
+            "image": "0045.jpg",
+            "num_features": 4636,
+            "wall_time": 1.0029906500003563
+        },
+        {
+            "image": "0064.jpg",
+            "num_features": 4810,
+            "wall_time": 1.0578708279999773
+        },
+        {
+            "image": "0049.jpg",
+            "num_features": 4515,
+            "wall_time": 0.8175748590001604
+        },
+        {
+            "image": "0061.jpg",
+            "num_features": 4829,
+            "wall_time": 0.8103395530001762
+        },
+        {
+            "image": "0032.jpg",
+            "num_features": 4560,
+            "wall_time": 0.78466256899992
+        },
+        {
+            "image": "0050.jpg",
+            "num_features": 4657,
+            "wall_time": 0.859480333999727
+        },
+        {
+            "image": "0010.jpg",
+            "num_features": 4487,
+            "wall_time": 1.5119504089998372
+        },
+        {
+            "image": "0047.jpg",
+            "num_features": 4635,
+            "wall_time": 1.6868281899996873
+        },
+        {
+            "image": "0044.jpg",
+            "num_features": 4527,
+            "wall_time": 1.0586231590000352
+        },
+        {
+            "image": "0053.jpg",
+            "num_features": 4676,
+            "wall_time": 1.7218066800000997
+        },
+        {
+            "image": "0062.jpg",
+            "num_features": 4815,
+            "wall_time": 1.5291096390001258
+        },
+        {
+            "image": "0038.jpg",
+            "num_features": 4616,
+            "wall_time": 1.2559063839998998
+        },
+        {
+            "image": "0063.jpg",
+            "num_features": 4688,
+            "wall_time": 1.1608898300000874
+        },
+        {
+            "image": "0043.jpg",
+            "num_features": 4637,
+            "wall_time": 1.1805549459995746
+        },
+        {
+            "image": "0019.jpg",
+            "num_features": 4464,
+            "wall_time": 1.3664925559996846
+        },
+        {
+            "image": "0012.jpg",
+            "num_features": 4563,
+            "wall_time": 1.0853449699998237
+        },
+        {
+            "image": "0054.jpg",
+            "num_features": 4787,
+            "wall_time": 1.2827048290000675
+        },
+        {
+            "image": "0020.jpg",
+            "num_features": 4398,
+            "wall_time": 1.0836174690002736
+        },
+        {
+            "image": "0008.jpg",
+            "num_features": 4565,
+            "wall_time": 1.0443300399997497
+        },
+        {
+            "image": "0056.jpg",
+            "num_features": 4566,
+            "wall_time": 0.9124527000003582
+        },
+        {
+            "image": "0035.jpg",
+            "num_features": 4569,
+            "wall_time": 1.2171614819999377
+        },
+        {
+            "image": "0057.jpg",
+            "num_features": 4799,
+            "wall_time": 1.1879347889998826
+        },
+        {
+            "image": "0014.jpg",
+            "num_features": 4529,
+            "wall_time": 1.0007447689999935
+        },
+        {
+            "image": "0027.jpg",
+            "num_features": 4557,
+            "wall_time": 0.9892663640002866
+        },
+        {
+            "image": "0037.jpg",
+            "num_features": 4551,
+            "wall_time": 1.0042623119998098
+        },
+        {
+            "image": "0034.jpg",
+            "num_features": 4621,
+            "wall_time": 1.0483519340000385
+        },
+        {
+            "image": "0055.jpg",
+            "num_features": 4827,
+            "wall_time": 1.072009565999906
+        },
+        {
+            "image": "0028.jpg",
+            "num_features": 4554,
+            "wall_time": 0.9291652019996945
+        },
+        {
+            "image": "0033.jpg",
+            "num_features": 4578,
+            "wall_time": 0.8857405599997037
+        },
+        {
+            "image": "0051.jpg",
+            "num_features": 4684,
+            "wall_time": 0.924949437000123
+        },
+        {
+            "image": "0013.jpg",
+            "num_features": 4487,
+            "wall_time": 1.0304089910000584
+        },
+        {
+            "image": "0067.jpg",
+            "num_features": 4649,
+            "wall_time": 1.022724695999841
+        },
+        {
+            "image": "0060.jpg",
+            "num_features": 4680,
+            "wall_time": 0.9774424880001789
+        },
+        {
+            "image": "0005.jpg",
+            "num_features": 4547,
+            "wall_time": 0.9901134560000173
+        },
+        {
+            "image": "0024.jpg",
+            "num_features": 4479,
+            "wall_time": 1.1612653069996668
+        },
+        {
+            "image": "0021.jpg",
+            "num_features": 4467,
+            "wall_time": 0.9039936389999639
+        },
+        {
+            "image": "0023.jpg",
+            "num_features": 4647,
+            "wall_time": 0.9042725809999865
+        },
+        {
+            "image": "0011.jpg",
+            "num_features": 4485,
+            "wall_time": 0.8842172189997655
+        },
+        {
+            "image": "0017.jpg",
+            "num_features": 4510,
+            "wall_time": 0.8880662680003297
+        },
+        {
+            "image": "0016.jpg",
+            "num_features": 4456,
+            "wall_time": 0.9178632600001038
+        },
+        {
+            "image": "0065.jpg",
+            "num_features": 4785,
+            "wall_time": 0.9343629380000493
+        },
+        {
+            "image": "0026.jpg",
+            "num_features": 4461,
+            "wall_time": 0.9211478990000614
+        },
+        {
+            "image": "0001.jpg",
+            "num_features": 4305,
+            "wall_time": 0.7881135280003946
+        },
+        {
+            "image": "0042.jpg",
+            "num_features": 4543,
+            "wall_time": 0.7861108689999128
+        },
+        {
+            "image": "0030.jpg",
+            "num_features": 4596,
+            "wall_time": 0.8045614210000167
+        },
+        {
+            "image": "0006.jpg",
+            "num_features": 4662,
+            "wall_time": 0.8082534010000018
+        },
+        {
+            "image": "0004.jpg",
+            "num_features": 4632,
+            "wall_time": 0.8048715579998316
+        },
+        {
+            "image": "0002.jpg",
+            "num_features": 4633,
+            "wall_time": 0.8070585099999334
+        },
+        {
+            "image": "0058.jpg",
+            "num_features": 4814,
+            "wall_time": 0.8103904869999496
+        },
+        {
+            "image": "0059.jpg",
+            "num_features": 4726,
+            "wall_time": 0.8041333099999974
+        },
+        {
+            "image": "0069.jpg",
+            "num_features": 4682,
+            "wall_time": 0.8032928659999925
+        },
+        {
+            "image": "0048.jpg",
+            "num_features": 4512,
+            "wall_time": 0.8569285290000153
+        },
+        {
+            "image": "0036.jpg",
+            "num_features": 4570,
+            "wall_time": 0.9056617770002049
+        },
+        {
+            "image": "0068.jpg",
+            "num_features": 4637,
+            "wall_time": 0.9001870319998488
+        },
+        {
+            "image": "0040.jpg",
+            "num_features": 4650,
+            "wall_time": 0.9297561399998813
+        },
+        {
+            "image": "0029.jpg",
+            "num_features": 4543,
+            "wall_time": 0.9036536829999022
+        },
+        {
+            "image": "0041.jpg",
+            "num_features": 4664,
+            "wall_time": 0.9327888000002531
+        },
+        {
+            "image": "0025.jpg",
+            "num_features": 4477,
+            "wall_time": 0.8975653349998538
+        },
+        {
+            "image": "0007.jpg",
+            "num_features": 4591,
+            "wall_time": 0.9008929180004088
+        },
+        {
+            "image": "0003.jpg",
+            "num_features": 4655,
+            "wall_time": 0.8520704759998807
+        },
+        {
+            "image": "0015.jpg",
+            "num_features": 4543,
+            "wall_time": 0.834736724999857
+        },
+        {
+            "image": "0039.jpg",
+            "num_features": 4648,
+            "wall_time": 0.8704937669999708
+        },
+        {
+            "image": "0009.jpg",
+            "num_features": 4617,
+            "wall_time": 0.8371068029996422
+        },
+        {
+            "image": "0022.jpg",
+            "num_features": 4528,
+            "wall_time": 0.8452692639998531
+        }
+    ]
+}
